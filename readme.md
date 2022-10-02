@@ -2,6 +2,8 @@
 
 ## reference build
 
+This is using yakl main branch : https://github.com/mrnorman/YAKL
+
 ```shell
 mkdir -p _build/ref
 cd _build/ref
@@ -21,6 +23,8 @@ CMake Error in src/CMakeLists.txt:
 ```
 
 ## modified build
+
+This is using yakl branch : https://github.com/pkestene/yakl/tree/fix/install_target
 
 ```shell
 mkdir -p _build/modif
